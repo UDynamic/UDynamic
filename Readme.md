@@ -10,4 +10,4 @@ __here are my initain desired portfolio of projects:__
 * A price action global programm delivering real-time report
 
 most importantly
-* A Cryptocurrency on my blockchain with the porpuse of individual traders empoerment
+* A Cryptocurrency on my blockchain with the porpuse of individual traders empowerment
