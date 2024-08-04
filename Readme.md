@@ -1,5 +1,5 @@
 # This File will include the list of my projects ( private and public ) and what i'm currently working on
-+ My record of LeetCode problems
+plus My record of LeetCode problems
 
 _My aim is to build a portfolio composing of Financial programs, Robots and scripts with the goal of returning positive long-term and short-term profits._ 
 ---
