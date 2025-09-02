@@ -1,6 +1,6 @@
-# Hello there, 
-## I’m Mahriar 👋
+# Hello there  👋
 
+## I’m Mahriar 
 I’m a **Fullstack Developer** (React.js, Next.js, Python/FastAPI) and an **AI Enthusiast** passionate about building intelligent systems.  
 With a background in **Engineering Management and AI research**, I focus on creating solutions at the intersection of **software engineering, artificial intelligence, and financial systems**.  
 
