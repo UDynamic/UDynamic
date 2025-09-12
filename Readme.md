@@ -9,7 +9,6 @@ With a background in **Industrial Engineering (Msc. as Engineering Management) a
 ⚙️ **Backend:** Python (FastAPI, Django), Node.js (Express)  
 🧠 **AI/ML:** Python (PyTorch), DRL (Deep Reinforcement Learning), Optimization Algorithms  
 📊 **Domain Interests:** Financial markets, decision support systems, Artificial Intelliget agents (development and Orchestration)  
-
 ---
 
 ## 🚀 Current Focus
