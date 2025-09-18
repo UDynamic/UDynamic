@@ -5,8 +5,7 @@ With a background in **Industrial Engineering (Msc. as Engineering Management) a
 ---
 
 ## 🛠️ Tech Stack
-
-💻 **Frontend:** </br>React.js, Next.js, Tailwind CSS  
+💻 *Frontend:* </br>React.js, Next.js, Tailwind CSS  
 
 ⚙️ **Backend:** </br>Python (FastAPI, Django), Node.js (Express)  
 
