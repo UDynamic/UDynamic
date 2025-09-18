@@ -1,5 +1,6 @@
-# Hello there  👋
-## I’m Mahriar 
+#Hello there  👋
+
+##I’m Mahriar 
 I’m a **Fullstack AI Developer** passionate about building intelligent systems.  
 With a background in **Industrial Engineering (Msc. as Engineering Management) and AI research (Developing Ai for My Msc. Thesis)**, I focus on creating solutions at the intersection of **software engineering, artificial intelligence, and financial systems**.  
 ---
@@ -13,8 +14,9 @@ With a background in **Industrial Engineering (Msc. as Engineering Management) a
 
 
 📊 __Domain Interests:__ 
-**</br>Financial markets, decision support systems, Artificial Intelliget agents (development and Orchestration)  
-**---
+</br>Financial markets, decision support systems, Artificial Intelliget agents (development and Orchestration)  
+
+---
 
 ## 🚀 Current Focus
 - Mastering **fullstack development** with React/Next.js and Python/FastAPI/Django  
