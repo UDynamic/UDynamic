@@ -12,9 +12,9 @@ With a background in **Industrial Engineering (Msc. as Engineering Management) a
 🧠 __AI/ML:__ </br>Python (PyTorch), DRL (Deep Reinforcement Learning), Optimization Algorithms  
 
 
-📊 *Domain Interests:* 
-</br>Financial markets, decision support systems, Artificial Intelliget agents (development and Orchestration)  
----
+📊 __Domain Interests:__ 
+**</br>Financial markets, decision support systems, Artificial Intelliget agents (development and Orchestration)  
+**---
 
 ## 🚀 Current Focus
 - Mastering **fullstack development** with React/Next.js and Python/FastAPI/Django  
