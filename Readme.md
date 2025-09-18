@@ -5,9 +5,14 @@ With a background in **Industrial Engineering (Msc. as Engineering Management) a
 ---
 
 ## 🛠️ Tech Stack
-💻 **Frontend:** React.js, Next.js, Tailwind CSS  
-⚙️ **Backend:** Python (FastAPI, Django), Node.js (Express)  
-🧠 **AI/ML:** Python (PyTorch), DRL (Deep Reinforcement Learning), Optimization Algorithms  
+💻 **Frontend:** 
+      React.js, Next.js, Tailwind CSS  
+⚙️ **Backend:** 
+      Python (FastAPI, Django), Node.js (Express)  
+🧠 **AI/ML:** 
+      Python (PyTorch), DRL (Deep Reinforcement Learning), Optimization Algorithms  
+
+
 📊 **Domain Interests:** Financial markets, decision support systems, Artificial Intelliget agents (development and Orchestration)  
 ---
 
