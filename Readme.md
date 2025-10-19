@@ -1,40 +1,40 @@
-# Hello there 👋  
+# Hey there 👋  
 ## I’m Mahriar  
 
-I’m a **Fullstack AI Developer** passionate about building intelligent systems.  
-
-With a background in **Industrial Engineering (MSc. in Engineering Management)** and **AI research (Developing AI for my MSc. Thesis)**, I focus on creating solutions at the intersection of **software engineering, artificial intelligence, and financial systems**.
+Shifting from leadership in Oil & Gas EPC and Smart Government software projects, I’ve dedicated myself to mastering full-stack engineering and AI-driven automation. Proficient in React, FastAPI, PyTorch, JAX, and agentic frameworks like LangChain and CrewAI, I build innovative solutions for complex workflows. Currently, I’m developing custom DRL AI agents with PPO to revolutionize automation for Oil & Gas EPC contractors, balancing disciplined coding with transformative impact.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:**       React.js, Next.js, Tailwind CSS  
-- **Backend:**       Python (FastAPI, Django), Node.js (Express)  
-- **AI/ML:**       Python (PyTorch), Deep Reinforcement Learning (PPO), Optimization Algorithms  
-- **Domain Interests:**       Financial markets, decision support systems, intelligent agents (development & orchestration)  
+- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Backend:** Python (FastAPI, Django), Node.js (Express)  
+- **AI/ML:** Python (PyTorch, JAX, LangChain, CrewAI), Deep Reinforcement Learning (PPO), Optimization Algorithms  
+- **Automation:** FlowForma, Cflow, Kissflow, AutoGen for no-code/low-code workflows; IoT/SCADA integrations  
+- **Domains:** Financial systems, decision support, intelligent agents, Oil & Gas EPC automation  
 
 ---
 
 ## 🚀 Current Focus
 
-- Mastering **fullstack development** with React/Next.js and Python/FastAPI/Django  
-- Expanding expertise in **AI agent design** and **reinforcement learning**, specifically developing a **PPO-based portfolio budgeting agent**  
-- Building projects that blend **AI with finance and real-world decision support**  
+- Enhancing full-stack expertise with React/Next.js and Python/FastAPI  
+- Building DRL-based AI agents, including PPO-driven systems for portfolio budgeting and EPC process optimization  
+- Developing AI-powered automation for Oil & Gas EPC projects, targeting predictive maintenance and digital permit-to-work systems  
 
 ---
 
 ## 📌 Featured Projects
 
-- **Urban Logistics Decision Support System** – Fullstack app ranking optimal routes for cab/bike services  
-- **Portfolio Budget Optimizer (PPO Agent)** – AI agent for project portfolio management under cashflow uncertainty  
-- **Trading Strategy AI (Planned)** – Combining reinforcement learning with market simulations  
+- **Urban Logistics Decision Support System** – Full-stack app for optimized cab/bike routing  
+- **Portfolio Budget Optimizer (PPO Agent)** – AI for managing project portfolios under uncertainty  
+- **Trading Strategy AI (In Progress)** – Reinforcement learning for market simulations  
+- **EPC Workflow Automator (In Progress)** – AI-driven tool using LangChain and FlowForma for Oil & Gas construction efficiency  
 
 ---
 
 ## 🌱 Long-Term Vision  
 
-To grow as a **Software Engineer and AI Specialist**, bridging the gap between **academic AI research** and **real-world applications in finance and engineering systems**.  
+To lead the AI automation revolution, merging rigorous software engineering with cutting-edge AI to transform Oil & Gas EPC and financial systems into efficient, sustainable operations.
 
 ---
 
