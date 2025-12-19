@@ -1,6 +1,3 @@
-# Hey there 👋  
-## I’m Mahriar  
-
 Shifting from leadership in Oil & Gas EPC and Smart Government software projects, I’ve dedicated myself to mastering full-stack engineering and AI-driven automation. Proficient in React, FastAPI, PyTorch, JAX, and agentic frameworks like LangChain and CrewAI, I build innovative solutions for complex workflows. Currently, I’m developing custom DRL AI agents with PPO to revolutionize automation for Oil & Gas EPC contractors, balancing disciplined coding with transformative impact.
 
 ---
