@@ -1,18 +1,36 @@
-## Past
-**Background**  
-Industrial Engineering (Engineering Management)
+## Present
+**Specialty**  
+ML & AI Engineering
 
-**Skills**  
-- Data analysis  
-- Data visualization  
-- Progressive reports  
-- Management reports  
-- Delay analysis and planning  
+**Target**  
+To reach the edge of AI science and technology.
 
-**Tools**  
-- Social skills  
-- Excel  
-- PowerPoint  
+**Knowledge Domain**  
+- Data structures and algorithms  
+- Discrete math  
+- Linear Algebra  
+- Statistics and Probability theory  
+- Pattern recognition and Machine Learning  
+- Reinforcement Learning and Deep RL  
+- **AI system design**  
+  - Prompt Engineering  
+  - End-to-end machine learning system design  
+  - RAG implementation  
+  - AI fine-tuning  
+  - **Workflow Automation**  
+    - n8n  
+    - OpenClaw  
+
+**Portfolio**  
+- ML engineering job prep projects  
+- Autonomous Budgeting DRL AI  
+- Several front-end projects  
+
+---
+
+## Future
+**Vision**  
+Expanding the edge of knowledge in AI and robotics at a world‑class level.
 
 ---
 
@@ -45,39 +63,19 @@ No matter what you do, you couldn't be the best without spending almost all of y
 - **National PhD Exam for Computer Engineering – AI and Robotics:** Scored rank 1  
 
 ---
----
 
-## Present
-**Specialty**  
-ML & AI Engineering
+## Past
+**Background**  
+Industrial Engineering (Engineering Management)
 
-**Target**  
-To reach the edge of AI science and technology.
+**Skills**  
+- Data analysis  
+- Data visualization  
+- Progressive reports  
+- Management reports  
+- Delay analysis and planning  
 
-**Knowledge Domain**  
-- Data structures and algorithms  
-- Discrete math  
-- Linear Algebra  
-- Statistics and Probability theory  
-- Pattern recognition and Machine Learning  
-- Reinforcement Learning and Deep RL  
-- **AI system design**  
-  - Prompt Engineering  
-  - End-to-end machine learning system design  
-  - RAG implementation  
-  - AI fine-tuning  
-  - **Workflow Automation**  
-    - n8n  
-    - OpenClaw  
-
-**Portfolio**  
-- ML engineering job prep projects  
-- Autonomous Budgeting DRL AI  
-- Several front-end projects  
-
----
----
-
-## Future
-**Vision**  
-Expanding the edge of knowledge in AI and robotics at a world‑class level.
+**Tools**  
+- Social skills  
+- Excel  
+- PowerPoint  
