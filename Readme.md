@@ -14,21 +14,31 @@ Past: {
 }
 
 careerBreak: {
-  background = "Industrial Engineering (Engineering mangement)",
-  skills = {
-    "Data analysis", 
-    "data visualization", 
-    "progressive reports", 
-    "mangement reports", 
-    "delay analysis and planning",}
-  Tools: {
-    "social skilles",
-    "Excel",
-    "Powerpoint",}
+  dissatisfactions = {
+    "personality incompability",
+    "no real evidence of growth and progress",
+    "low social status"
+  }
+  motivation = "the urge for deep mastery level in computer science and technology focusing on Ai and automation",
+  justification = "no matter what you do, you couldn't be the best without spending almost all of your time working with computer",
+  experimentalPractices = {
+    "Front-End web development (Next.js)",
+    "Back-End web development (Express.js, Nest.js)",
+    "Machine learning and Ai (Python)",
+    "Financial engineering and Quantitative analysis (Conceptual, not programming)",
+    "",}
+  foundPassions: {
+    "Mathematics",
+    "Machine learning and Ai",}
+  competitions: {
+    "Masters Grades"= "Rank A",
+    "Masters thesis" = "(Developed Budgeting Ai agent)",
+    "National PHD exam for Computer engineering - Ai and Robotics" = "(Scored rank 1)",}
 }
 
 present: {
-  background = "Industrial Engineering (Engineering mangement)",
+  background = "ML engineer",
+  target = "to reach to the edge of Ai science and technology"
   skills = {
     "Data analysis", 
     "data visualization", 
@@ -41,8 +51,8 @@ present: {
     "Powerpoint",}
 }
 
-Past: {
-  background = "Industrial Engineering (Engineering mangement)",
+future: {
+  vision = "expanding the Edge of knowledge in Ai and robotics at a world class level ",
   skills = {
     "Data analysis", 
     "data visualization", 
