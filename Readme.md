@@ -1,6 +1,4 @@
-# 👨‍💻 About Me
-
-## 📅 Past
+## Past
 **Background**  
 Industrial Engineering (Engineering Management)
 
@@ -18,7 +16,7 @@ Industrial Engineering (Engineering Management)
 
 ---
 
-## 🔄 Career Break
+## Career Break
 **Dissatisfactions**  
 - Personality incompatibility  
 - No real evidence of growth and progress  
@@ -47,8 +45,9 @@ No matter what you do, you couldn't be the best without spending almost all of y
 - **National PhD Exam for Computer Engineering – AI and Robotics:** Scored rank 1  
 
 ---
+---
 
-## 🚀 Present
+## Present
 **Specialty**  
 ML & AI Engineering
 
@@ -77,7 +76,8 @@ To reach the edge of AI science and technology.
 - Several front-end projects  
 
 ---
+---
 
-## 🔮 Future
+## Future
 **Vision**  
 Expanding the edge of knowledge in AI and robotics at a world‑class level.
