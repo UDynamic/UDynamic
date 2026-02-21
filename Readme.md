@@ -29,7 +29,8 @@ careerBreak: {
     "",}
   foundPassions: {
     "Mathematics",
-    "Machine learning and Ai",}
+    "Machine learning and Ai",
+    "Robotics (more specifically in micro gravity condition)",}
   competitions: {
     "Masters Grades"= "Rank A",
     "Masters thesis" = "(Developed Budgeting Ai agent)",
@@ -37,32 +38,30 @@ careerBreak: {
 }
 
 present: {
-  background = "ML engineer",
+  specialty = "ML&Ai engineering",
   target = "to reach to the edge of Ai science and technology"
-  skills = {
-    "Data analysis", 
-    "data visualization", 
-    "progressive reports", 
-    "mangement reports", 
-    "delay analysis and planning",}
-  Tools: {
-    "social skilles",
-    "Excel",
-    "Powerpoint",}
+  knowledgeDomain = {
+    "Data structures and algorithms",
+    "Discrete math",
+    "Linear Algebra",
+    "Statistics and Probability theory",
+    "Pattern recognition and Machinelearning",
+    "Reinforcement Learning and Deep RL",
+    "AI system design"= {
+      "Prompt Engineering",
+      "end to end machine learning system design",
+      "RAG implementation",
+      "Ai fine tunning",
+      "Workflow Automation" = {"n8n", "OpenClaw"} ,
+      "",}
+  Portfolio: {
+    "ML engineering job prep projects",
+    "autonomous Budgeting DRL Ai",
+    "several front-end projects",}
 }
 
 future: {
   vision = "expanding the Edge of knowledge in Ai and robotics at a world class level ",
-  skills = {
-    "Data analysis", 
-    "data visualization", 
-    "progressive reports", 
-    "mangement reports", 
-    "delay analysis and planning",}
-  Tools: {
-    "social skilles",
-    "Excel",
-    "Powerpoint",}
 }
 ```
 
