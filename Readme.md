@@ -27,16 +27,17 @@ To reach the edge of AI science and technology.
 - ML engineering job prep projects  
 - Several front-end projects
 
-**wish list (fundamental knowledge, skill or framework )**
-- multi agent systems (LangChain)
-- MlOps
-- robotics lab access
 
 ---
 
 ## Future
 **Vision**  
 Expanding the edge of knowledge in AI and robotics at a world‑class level.
+
+**wish list (fundamental knowledge, skill or framework )**
+- multi agent systems (LangChain)
+- MlOps
+- robotics lab access
 
 ---
 
