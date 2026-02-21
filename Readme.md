@@ -3,7 +3,7 @@ with a background in Industrial Engineering and a drive to reach the frontier of
 
 ---
 
-## 🎓 Education & Achievements
+## Education & Achievements
 
 | Degree / Exam | Institution / Details | Result |
 |---------------|------------------------|--------|
@@ -13,7 +13,7 @@ with a background in Industrial Engineering and a drive to reach the frontier of
 
 ---
 
-## 🛠️ Core Competencies
+## Core Competencies
 
 | Domain | Skills & Tools |
 |--------|----------------|
@@ -25,7 +25,7 @@ with a background in Industrial Engineering and a drive to reach the frontier of
 
 ---
 
-## 💼 Experience & Journey
+## Experience & Journey
 
 ### Past – Industrial Engineering Background
 - **Skills:** Data analysis, visualization, management reports, delay analysis and planning  
@@ -52,7 +52,7 @@ with a background in Industrial Engineering and a drive to reach the frontier of
 
 ---
 
-## 🔭 Vision & Future Interests
+## Vision & Future Interests
 
 - **Vision:** Expand the edge of knowledge in AI and robotics at a world‑class level.  
 - **Wish List (fundamental knowledge, skills, frameworks):**  
@@ -62,7 +62,7 @@ with a background in Industrial Engineering and a drive to reach the frontier of
 
 ---
 
-## 📌 Quick Facts
+## Quick Facts
 
 | | |
 |---|---|
