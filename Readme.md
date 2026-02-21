@@ -19,12 +19,18 @@ To reach the edge of AI science and technology.
   - AI fine-tuning  
   - **Workflow Automation**  
     - n8n  
-    - OpenClaw  
+    - OpenClaw
 
 **Portfolio**  
-- ML engineering job prep projects  
 - Autonomous Budgeting DRL AI  
-- Several front-end projects  
+- Robotic arm trajectory planning for assembly in microgravity
+- ML engineering job prep projects  
+- Several front-end projects
+
+**wish list (fundamental knowledge, skill or framework )**
+- multi agent systems (LangChain)
+- MlOps
+- robotics lab access
 
 ---
 
