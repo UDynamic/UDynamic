@@ -1,4 +1,4 @@
-In Inreview process for PHD Ppsitiona
+In Inreview process for PHD Ppsitions
 
 <img src="../../../images/p.jpg" alt="Mahriar Photo" width="140" align="right" style="border-radius:10px; margin-left:15px;">
 
