@@ -1,4 +1,6 @@
 In Inreview process for PHD Ppsitions
+- IUT done
+- Shiraz 04-06
 
 <img src="../../../images/p.jpg" alt="Mahriar Photo" width="140" align="right" style="border-radius:10px; margin-left:15px;">
 
