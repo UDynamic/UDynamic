@@ -13,7 +13,7 @@ Tehran, Iran
 
 AI & ML Engineer with hands-on experience across full-stack applications, workflow automations, decision-support systems, and applied AI. 
 
-mahriargharaghani@gmail.com | +98 917 397 8579
+mahriargharaghani@gmail.com | +98 938 902 3804
 
 *Portfolio evidence available via GitHub ([GitHub URL](https://github.com/UDynamic)) and LinkedIn certifications ([LinkedIn URL](https://linkedin.com/mahriar-gharaghani))*
 
