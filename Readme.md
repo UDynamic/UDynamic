@@ -2,7 +2,7 @@ In Inreview process for PHD Ppsitions
 - IUT done
 - Shiraz 04-06
 
-⚠️ Preparation
+⚠️ Preparation for shiraz
 
 Locking in for the pre trainning
 
