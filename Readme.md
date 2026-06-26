@@ -3,6 +3,7 @@ In Inreview process for PHD Ppsitions
 - Shiraz 04-06
 
 ⚠️ Preparation for shiraz
+Mobolization Done
 
 Locking in for the pre trainning
 
