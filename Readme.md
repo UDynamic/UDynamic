@@ -1,11 +1,6 @@
-In Inreview process for PHD Ppsitions
-- IUT done
-- Shiraz 04-06
-
-⚠️ Preparation for shiraz
-Mobolization Done
-
-Shiraz
+- Interview Done.
+- PHD_Iran (Pending)
+- 
 
 Locking in for the pre trainning
 
