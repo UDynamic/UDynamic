@@ -1,6 +1,6 @@
 - Interview Done.
 - PHD_Iran (Pending)
-- Revised article strategy (compromising being Ai pure, instead of application
+- Writing test cases
 
 Locking in for the pre trainning
 
