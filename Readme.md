@@ -1,6 +1,5 @@
-- Interview Done.
-- PHD_Iran (Pending)
-- Writing test cases
+- TOEFL preparation
+- Article research
 
 Locking in for the pre trainning
 
