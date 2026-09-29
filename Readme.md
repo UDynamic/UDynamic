@@ -1,9 +1,4 @@
-- TOEFL preparation
-- Article research
-
-Locking in for the pre trainning
-
-<img src="../../../images/p.jpg" alt="Mahriar Photo" width="140" align="right" style="border-radius:10px; margin-left:15px;">
+<img src="../../../images/gitprofile.png" alt="Mahriar Photo" width="140" align="right" style="border-radius:10px; margin-left:15px;">
 
 # Mahriar Gharaghani  
 **AI-ML Engineer** | Python Developer
